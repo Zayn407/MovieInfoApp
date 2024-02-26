@@ -1,7 +1,5 @@
 # MovieInfoApp
 
-# Movie Info Android App
-
 ## Overview
 This Android app is designed to display information about movies in a user-friendly list format. Each list item shows a movie's poster thumbnail, title, and a list of 2-3 actors. The app supports interaction through short and long clicks on list items, offering functionalities such as viewing the movie's official web page, its full poster, its Wikipedia page, and a list of streaming services offering the movie.
 
